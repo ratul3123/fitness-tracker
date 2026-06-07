@@ -176,11 +176,3 @@ This enables automated tracking of workout volume from raw sensor data.
 * SciPy
 * Matplotlib, Seaborn
 * Signal Processing (FFT, filtering techniques)
-
----
-
-If you want, I can also:
-
-* shorten this to a **“1-screen GitHub README version”**
-* or make it more **“research paper style”**
-* or align it even closer to recruiter scanning behavior (more impact-heavy, less technical detail)
